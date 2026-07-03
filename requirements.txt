@@ -1,0 +1,9 @@
+rumps==0.4.0
+pyobjc-core>=10.0
+pyobjc-framework-Cocoa>=10.0
+pyobjc-framework-AVFoundation>=10.0
+pyobjc-framework-Photos>=10.0
+pyobjc-framework-Quartz>=10.0
+opencv-python-headless==4.10.0.84
+Pillow>=10.0.0
+numpy>=1.24
