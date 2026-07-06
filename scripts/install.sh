@@ -86,7 +86,7 @@ chmod +x scripts/build_app.sh
 scripts/build_app.sh --install
 
 log "重新 ad-hoc 签名..."
-codesign --force --deep --sign - --identifier com.SarahXu31.filmsnap "$APP_PATH"
+codesign --force --deep --sign - --identifier com.sarahxu31.filmsnap "$APP_PATH"
 
 log "安装完成。"
 cat <<EOF

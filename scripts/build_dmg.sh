@@ -3,7 +3,7 @@ set -euo pipefail
 
 VERSION="1.0.0"
 ARCH="arm64"
-BUNDLE_ID="com.SarahXu31.filmsnap"
+BUNDLE_ID="com.sarahxu31.filmsnap"
 APP_NAME="FilmSnap.app"
 INSTALLED_APP="/Applications/$APP_NAME"
 

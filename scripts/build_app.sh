@@ -2,7 +2,7 @@
 set -euo pipefail
 
 VERSION="1.0.0"
-BUNDLE_ID="com.SarahXu31.filmsnap"
+BUNDLE_ID="com.sarahxu31.filmsnap"
 INSTALL_TO_APPLICATIONS=0
 FORCE_ARM64=1
 
